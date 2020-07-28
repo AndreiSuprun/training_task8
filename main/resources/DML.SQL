@@ -1,0 +1,10 @@
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Head First Java', '{"Sierra Kathy", "Bates Bert"}', 'O Reilly Media', 2005, 688);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Java Concurrency in Practice', '{"Goetz Brian"}', 'Addison-Wesley Professional', 2006, 424);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Effective Java', '{"Bloch Joshua"}', 'Addison-Wesley Professional', 2017, 412);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Java: The Complete Reference', '{"Schildt Herbert"}', 'McGraw-Hill Education', 2018, 1248);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Clean Code: A Handbook of Agile Software Craftsmanship', '{"Martin Robert C."}', 'Pearson', 2008, 464);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Java Generics and Collections', '{"Naftalin Maurice", "Wadler Philip"}', 'O Reilly Media', 2006, 273);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Design Patterns: Elements of Reusable Object-Oriented Software', '{"Gamma Erich", "Helm Richard", "Johnson Ralph", "Vlissides John"}', 'O Reilly Media', 1994, 416);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Mastering Lambdas: Java Programming in a Multicore World', '{"Naftalin Maurice"}', 'Pearson', 2014, 208);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Grokking Algorithms: An illustrated guide for programmers and other curious people', '{"Bhargava Aditya"}', 'Manning Publications', 2016, 256);
+insert into bookstorage.book (name, authors, publisher, publish_year, page_quantity) values ('Soft Skills: The software developers life manual', '{"Sonmez John"}', 'Manning Publications', 2015, 504);
