@@ -38,7 +38,7 @@ public class BookStorageService {
             throw new BookServiceException(e.getMessage());
         }
         Map<String, Object> response = new HashMap<String, Object>();
-        response.put("books", books);
+        response.put(BookStorageParameters.BOOKS, books);
         return response;
     }
 
@@ -51,7 +51,7 @@ public class BookStorageService {
             throw new BookServiceException(e.getMessage());
         }
         Map<String, Object> response = new HashMap<String, Object>();
-        response.put("books", books);
+        response.put(BookStorageParameters.BOOKS, books);
         return response;
     }
 
